@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jlmyg
-- 👀 I’m interested in Quality Assurance
+- 👀 I’m interested in Quality Assurance specifically, test automation
 - 🌱 I’m currently learning Automating tests using Selenium
 - 💞️ I’m looking to collaborate on projects that require automation testing
 - 📫 How to reach me - email = work.jlmg@gmail.com
