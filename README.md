@@ -6,11 +6,11 @@
   -  I have worked as a QA Engineer for 2 years and 4 months. During this span of time, I have learned test automation strategies ranging from non-functional and functional testing. Whitebox, blackbox, and greybox testing mainly focusing on end to end testing as well as API testing.
 
   #### Functional Testing
-   - I have created Automated Test frameworks using Selenium, and Appium through Python and Robot Framework that mainly focuses on end to end UI tests. The testing framework we are using is Pytest.
-   - The testing framework I mainly use follows Page Object Modelling, which is a manifestation of Object Oriented Programming principles that promotes reusability and scalability without the need of too much code maintenance as it's strenghts.
-   - I also have written test cases and test scenarios whenever I am required to by our QA Manager.
+   - I have created Automated Test frameworks using Selenium, and Appium through Python and Robot Framework that mainly focuses on end to end UI tests. The testing framework I am mainly using is Pytest.
+   - The testing framework I mainly use follows Page Object Modelling, which is a manifestation of Object Oriented Programming principles that promotes reusability and scalability without the need of too much code maintenance as it's strengths.
+   - I also have written test cases and test scenarios whenever required.
   #### Non-Functional Testing
-   - In this aspect, I have been working on our company's load testing through Locust. Which is a python-based testing tool that mocks API Requests through "swarms" to simulate multiple concurrent users to help diagnose the system performance.
+   - In this aspect, I have worked with load testing through Locust. Which is a python-based testing tool that mocks API Requests through "swarms" to simulate multiple concurrent users to help diagnose the system performance.
    - Other aspects of non-functional testing I'm currently looking into is responsiveness testing. This is also through the same testing frameworks I've used mentioned above as Selenium also provides these capabilities.
    - Also contributed through automated cross-browser testing by adding the capabilities through the codebase.
 
@@ -30,10 +30,12 @@
 
 #### Career Growth 🌱
  - I have joined workshops for Selenium with Java and Cucumber to understand the Gherkin/BDD approach of test automation.
- - I am also looking into qualifying for QA Certifications
+ - I am also looking into qualifying for QA Certifications.
+ - I'm also interested in Playwright and Cypress.
+ - I would also love to look into API Testing as part of the Integration Testing of the testing pyramid.
 
 
-- 💞️ I’m looking to collaborate on projects that require automation testing
+- 💞️ I’m looking to collaborate on projects that require testing with a forefront of test automation
 - 📫 How to reach me - email = work.jlmg@gmail.com
 - You can also check my work through my gitlab profile 
 
