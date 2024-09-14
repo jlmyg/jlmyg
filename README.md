@@ -3,7 +3,7 @@
 ## Software Testing
 
 ### Quality Assurance Engineer
-  -  I have worked as a QA Engineer for 2 years and 4 months. During this span of time, I have learned test automation strategies ranging from non-functional and functional testing. Whitebox, blackbox, and greybox testing mainly focusing on end to end testing as well as API testing.
+  -  I have worked as a QA Engineer for 3 years. During this span of time, I have learned test automation strategies ranging from non-functional and functional testing. Whitebox, blackbox, and greybox testing mainly focusing on end to end testing as well as API testing.
 
   #### Functional Testing
    - I have created Automated Test frameworks using Selenium, and Appium through Python and Robot Framework that mainly focuses on end to end UI tests. The testing framework I am mainly using is Pytest.
